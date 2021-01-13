@@ -1,6 +1,0 @@
-[submodule "hugo_site/themes/anatole"]
-	path = hugo_site/themes/anatole
-	url = https://github.com/lxndrblz/anatole.git
-[submodule "hugo_site/themes/Blogpaper"]
-	path = hugo_site/themes/Blogpaper
-	url = https://github.com/NormandErwan/Blogpaper
